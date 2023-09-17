@@ -483,8 +483,9 @@ button::after {
         width: 100%;
         height: auto;
         text-align: center;
-        margin-top: auto;
+        margin-top: 13px;
         margin-left: auto;
+        margin-right: auto;
     }
     
     .jdDivv {
@@ -507,7 +508,7 @@ button::after {
     
     #siswa div {
         border-radius: 5%;
-        width: 250px;
+        width: 330px;
         height: auto;
         background-color: #b09780;
         border: 3px solid black;
@@ -533,7 +534,7 @@ button::after {
     
     .jdpiket div {
         border-radius: 5%;
-        width: 250px;
+        width: 330px;
         height: auto;
         background-color: #c2ac98;
         border: 4px solid black;
